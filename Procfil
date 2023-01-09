@@ -1,0 +1,1 @@
+web: gunicorn tp5.wsgi --log-file -
